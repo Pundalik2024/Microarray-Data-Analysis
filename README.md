@@ -1,4 +1,4 @@
-# MDS Microarray Data Analysis.
+# MDS Microarray Data Analysis
 # Author: Pundalik Wayal
 # GitHub: https://github.com/Pundalik2024
 # Description: This script performs microarray data analysis on gene expression profiles of MDS patients and healthy controls.
@@ -206,4 +206,3 @@ heatmap.2(m2.t, col = hmcol, trace="none", symbreaks = TRUE, dendrogram= "both",
             FALSE, margin=c(7, 5), cexCol=0.6, cexRow=0.45, density.info="none",breaks = seq(2, 16, length.out
                                                                                              = 101))
 dev.off()
-

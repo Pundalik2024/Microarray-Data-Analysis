@@ -1,8 +1,8 @@
-# MDS Microarray Data Analysis Script
+# MDS Microarray Data Analysis.
 # Author: Pundalik Wayal
 # GitHub: https://github.com/Pundalik2024
 # Description: This script performs microarray data analysis on gene expression profiles of MDS patients and healthy controls.
-# Dataset: GSE58831 (Gene expression data of bone marrow CD34+ cells of patients with myelodysplastic syndromes and healthy controls)
+# Dataset: GSE58831
 # Organism:** _Homo sapiens_
 
 # -------------------------------------------------------------------------------------------------------------------------------------------------------------
